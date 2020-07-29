@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Doozy/Examples/_Scenes/E2 - Simple App - Portrait - 2D.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
