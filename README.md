@@ -1,2 +1,2 @@
-# memeClicker
+# MEMEClicker
 trash meme clicker game
